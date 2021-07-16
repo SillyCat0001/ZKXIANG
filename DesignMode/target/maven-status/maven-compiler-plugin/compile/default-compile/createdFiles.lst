@@ -1,0 +1,12 @@
+AbstractFactory\ShapeFactory.class
+AbstractFactory\FactoryProducer.class
+Singleton\HungerSingleObject.class
+AbstractFactory\AbstractFactoryPattern.class
+AbstractFactory\AbstractFactory.class
+Singleton\DoubleCheck.class
+AbstractFactory\ColorFactory.class
+Factory\ShapeFactory.class
+Singleton\DoubleCheck2.class
+Factory\FactoryPattern.class
+AbstractFactory\Graph.class
+Singleton\LaySingleObject.class
